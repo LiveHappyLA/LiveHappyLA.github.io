@@ -1,3 +1,43 @@
-body {background-color: #848484;}
-h1,p {color: #18B2D5;}
+body {
+	background-color: #fff;
+	text-align: center;
+  	color: #000;
+  	font-family: "Century Gothic";
+  	font-size: 19px;
+}
 
+h1,p {color: #08143D;}
+
+#livehappy {
+	font-size: 75px;
+}
+#slogan {
+	font-size: 50px;
+	font-style: italic;
+	text-decoration: underline;
+
+}
+#list {
+	text-align: left;
+	color: #000;
+	font-weight: normal;
+	font-size: 25px;
+}
+
+.bullets{
+	font-style: italic;
+	font-weight: normal;
+	font-size: 19px;
+}
+
+#contact {
+	font-size: 20px;
+}
+
+#services {
+	font-size: 30px
+
+}
+
+
+	
