@@ -2,11 +2,12 @@ body {
 	background-color: #fff;
 	text-align: center;
   	color: #000;
-  	font-family: "Century Gothic";
+  	font-family: 'Open Sans', sans-serif;
   	font-size: 19px;
 }
 
-h1,p {color: #08143D;}
+h1,p {color: #08143D;
+}
 
 #livehappy {
 	font-size: 75px;
@@ -19,7 +20,7 @@ h1,p {color: #08143D;}
 }
 #list {
 	text-align: left;
-	color: #000;
+	color: ##08143D;
 	font-weight: normal;
 	font-size: 25px;
 }
